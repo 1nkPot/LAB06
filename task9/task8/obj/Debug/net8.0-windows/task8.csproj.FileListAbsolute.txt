@@ -1,0 +1,16 @@
+C:\Users\Arsal\source\repos\task8\task8\bin\Debug\net8.0-windows\task8.exe
+C:\Users\Arsal\source\repos\task8\task8\bin\Debug\net8.0-windows\task8.deps.json
+C:\Users\Arsal\source\repos\task8\task8\bin\Debug\net8.0-windows\task8.runtimeconfig.json
+C:\Users\Arsal\source\repos\task8\task8\bin\Debug\net8.0-windows\task8.dll
+C:\Users\Arsal\source\repos\task8\task8\bin\Debug\net8.0-windows\task8.pdb
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.Form1.resources
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.csproj.GenerateResource.cache
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.AssemblyInfoInputs.cache
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.AssemblyInfo.cs
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.csproj.CoreCompileInputs.cache
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.dll
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\refint\task8.dll
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.pdb
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\task8.genruntimeconfig.cache
+C:\Users\Arsal\source\repos\task8\task8\obj\Debug\net8.0-windows\ref\task8.dll
